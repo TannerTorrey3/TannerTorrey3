@@ -6,8 +6,8 @@
 
 I work on persistent memory, world models, and AI teammates that turn context into action.
 
-- **[Kartr](https://ix-infra.com)** — AI teammates that handle the busywork.
-- **[Ix](https://ix-infra.com/ix)** — persistent memory and codebase context for coding agents.
+- **[Kartr](https://ix-infra.com)**: AI teammates that handle the busywork.
+- **[Ix](https://ix-infra.com/ix)**: persistent memory and codebase context for coding agents.
 
 Interested in agents that remember what happened and know what to do next? [Let's talk.](https://ix-infra.com/contact)
 
