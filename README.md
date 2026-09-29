@@ -14,4 +14,5 @@ Interested in agents that remember what happened and know what to do next? [Let'
 <p>
   <a href="https://ix-infra.com">Website ↗</a> &nbsp;·&nbsp;
   <a href="https://ix-infra.com/team">The team ↗</a>
+  <iframe src="https://github.com/sponsors/ix-infrastructure/button" title="Sponsor ix-infrastructure" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 </p>
